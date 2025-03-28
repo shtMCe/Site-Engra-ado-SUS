@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0d8d87;
+    color: #022e57;
+    text-align: center;
+    font-weight: 13;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 40px;
+    color: #022e57;
+}
+
+h2{
+    text-align: center;
+    margin-top: 0,5%;
+    font-size: 35px;
+    color: #022e57;
+}
+
+p{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 20px;
+    color: #022e57;
+}
+
+summary{
+    text-align: center;
+    margin-top: 0,5%;
+    font-size: 20px;
+    color: #022e57;
+}
+
+details{
+    text-align: center;
+    margin-top: 1,5%;
+    font-size: 20px;
+    color: #022e57;
+}
+
+#CAIXAPERGUNTA{
+    text-align: center;
+    margin-top: 0,5%;
+    font-size: 20px;
+    color: #022e57;
+}
