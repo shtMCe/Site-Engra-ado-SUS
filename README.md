@@ -1,2 +1,2 @@
-# Site-Engracado-SUS
-Site engraçado do sus, ainda não acabado. Um dos primeiros sites onde uso somente HTML e CSS (começando a aprender)
+# Site-SUS
+Site engraçado do sus, ainda não acabado. primeiro sites onde uso HTML e CSS (começando a aprender)
