@@ -1,1 +1,45 @@
+<!DOCTYPE html>
 
+
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SITE SAÚDE</title>
+    </head>
+
+    <body>
+        <header>
+            <!--título-->
+            <h1>SITE SAÚDE DO GOV</h1>
+            <P>Descubra o que você tem através desse site do gov</P>
+        </header>
+        <main>
+            <!--selecionar sintoma-->
+            <section>
+                <h2>Quais seus problemas mais recentes?</h2>
+                <form>
+                    <select name="Selecione um sintoma" id="peixe">
+                        <option value="dor de cabeça">dor de cabeça</option>
+                        <option value="encostou em mendigos">encostou em mendigos</option>
+                        <option value="joelho ralado">joelho ralado</option>
+                        <option value="diarréia">diarréia</option>
+                        <option value="engoliu uma caneta">engoliu uma caneta</option>
+                        <option value="pulou do prédio">pulou do prédio</option>
+                    </select>
+            </section>
+             <!--botão diagnóstico-->
+            <section>
+                </form>
+                <br>
+                <form>
+                    <button>diagnóstico</button>
+                </form>
+            </section>
+        </main>
+        <footer>
+        </footer>
+    </body>
+
+</html>
